@@ -128,11 +128,17 @@ ESP32-Cloud-Patient-Monitoring/
 ## 👨‍💻 Project Information
 
 **Author:** Dhanusri VEERAPPAN
+
 **Project:** Cloud Integrated Patient Monitoring System
+
 **Domain:** Embedded Systems • IoT • Cloud Connectivity
+
 **Platform:** ESP32
+
 **Development:** Arduino IDE
+
 **Academic Project:** Puducherry Technological University
+
 **Year:** 2024
 
 ---
